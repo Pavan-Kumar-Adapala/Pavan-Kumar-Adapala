@@ -2,4 +2,4 @@
 
 ## Skills
 
-![skills] (./imags/Skills_chain.png)
+![skills] (./imgs/Skills_chain.png)
