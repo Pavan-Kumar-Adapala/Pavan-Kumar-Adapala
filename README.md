@@ -14,4 +14,4 @@ DevOps Engineer with around 3 years of experience in provisioning scalable on-pr
 
 ## Impacts
 
-![imag](./imgs/achievements.png)
+![ach](./imgs/achievements.png)
