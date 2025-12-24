@@ -15,3 +15,7 @@ DevOps Engineer with around 3 years of experience in provisioning scalable on-pr
 ## Impacts
 
 ![ach](./imgs/achievements.png)
+
+## GitHub Insights
+
+![GitHub Metrics](/github-metrics.svg)
