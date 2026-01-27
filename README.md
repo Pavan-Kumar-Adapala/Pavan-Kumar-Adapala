@@ -1,6 +1,6 @@
 # Pavan Kumar Adapala
 
-DevOps Engineer with around 3 years of experience in provisioning scalable on-premises and cloud infrastructures, developing GitOps-driven CI/CD pipelines for containerized applications, and implementing monitoring/observability solutions to enhance deployment reliability and reduce operational costs. Proven success in reducing build failure debugging time by up to 30%, enabling faster and more stable application delivery. 
+DevOps Engineer with 3 years of experience in Cloud and DevOps environments, focused on reducing delivery friction and operational overhead. Designed and implemented data-driven automation across CI/CD pipelines and GitOps workflows, significantly cutting build failure root-cause identification time and eliminating manual analysis of test reports and build artifacts. Proven expertise in integrating observability and security tooling—Grafana, Prometheus, SonarQube—and provisioning highly available, disaster-resilient infrastructure to deliver reliable, production-ready platforms.
 
 
 ## Skills
