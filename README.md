@@ -5,7 +5,7 @@ DevOps Engineer with 3 years of experience in Cloud and DevOps environments, foc
 
 ## Skills
 
-![imag](./imgs/Skills_chain.png)
+![imag](./imgs/Skills_chain_old.png)
 
 
 ## Experience
