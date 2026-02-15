@@ -12,9 +12,6 @@ DevOps Engineer with 3 years of experience in Cloud and DevOps environments, foc
 
 ![imag](./imgs/experience.png)
 
-## Impacts
-
-#![ach](./imgs/achievements.png)
 
 ## GitHub Insights
 
