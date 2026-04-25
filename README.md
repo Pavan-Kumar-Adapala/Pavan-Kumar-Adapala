@@ -8,11 +8,6 @@ DevOps and MLOps Engineer with around 5 years of experience building and operati
 ![imag](./imgs/Skills_chain_old.png)
 
 
-## Experience
-
-![imag](./imgs/experience.png)
-
-
 ## GitHub Insights
 
 ![GitHub Metrics](/github-metrics.svg)
